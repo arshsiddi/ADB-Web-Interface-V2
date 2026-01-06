@@ -12,6 +12,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![ADB Working](docs/images/image4.png)
 
 ![ADB Working](docs/images/image5.png)
+
+![ADB Analysis of the battery](docs/images/image6.png)
 ## Available Scripts
 
 In the project directory, you can run:
