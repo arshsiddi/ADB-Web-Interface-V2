@@ -4,7 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![Cognito Login Screen](docs/images/image.png)
 
-![Dashboard View](docs/images/Screenshot 2026-01-06 220248.png)
+![Dashboard View](docs/images/image2.png)
 ## Available Scripts
 
 In the project directory, you can run:
