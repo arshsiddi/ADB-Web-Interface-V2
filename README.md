@@ -1,90 +1,70 @@
-# ADB Web Interface – Demonstration Build
+# Getting Started with Create React App
 
-## Overview
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This repository contains a **demonstration version** of an ADB-based web interface created to showcase the **system design, deployment strategy, and technical architecture** of the project.
+## Available Scripts
 
-The goal of this repository is to:
-- Present the **concept and workflow**
-- Demonstrate **cloud deployment practices**
-- Highlight **engineering and integration skills**
+In the project directory, you can run:
 
-Some internal logic and unique mechanisms are intentionally **not included** to protect the originality of the project.
+### `npm start`
 
----
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Project Goals
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-- Enable remote interaction with Android devices using **ADB**
-- Provide a **web-based interface** for device monitoring
-- Secure access using **private networking (Tailscale)**
-- Run reliably on **AWS EC2** using **PM2**
+### `npm test`
 
----
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-## What This Repository Contains
+### `npm run build`
 
-- Frontend structure (React)
-- Backend API structure (Node.js)
-- Deployment configuration (PM2)
-- Cloud deployment documentation
-- Security and monitoring practices
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
----
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-## What Is Intentionally Not Included
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-To protect the uniqueness of this project, the following components are **not part of this public repository**:
+### `npm run eject`
 
-- Core processing logic  
-- Internal automation workflows  
-- Proprietary parsing and optimization methods  
-- Production environment secrets  
-- Device-specific tuning logic  
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-> This repository is meant for **demonstration and evaluation only**, not for full reproduction.
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
----
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-## Deployment
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-A complete deployment guide is included for **reference purposes**.  
-The live system runs on a private AWS EC2 instance and is **not kept online 24/7**.
+## Learn More
 
-If you want to deploy your own version:
-- Follow the instructions in `DEPLOYMENT.md`
-- Replace internal logic with your own implementation
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
----
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-## Live Demo
+### Code Splitting
 
-This project is hosted on **AWS Free Tier** and therefore is not publicly available at all times.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-For evaluation purposes:
-- You may request temporary access from the author  
-- Or deploy the system locally using the provided structure
+### Analyzing the Bundle Size
 
----
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-## Security Notice
+### Making a Progressive Web App
 
-- No credentials, tokens, or secrets are stored in this repository.
-- All sensitive configuration is managed through environment variables.
-- Only **template configuration files** are provided.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
----
+### Advanced Configuration
 
-## License
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-This project is shared for **demonstration purposes only**.
+### Deployment
 
-**All rights reserved.**  
-Unauthorized copying, redistribution, or commercial use of the protected components is not permitted.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
----
+### `npm run build` fails to minify
 
-## Author
-
-**Arsh**  
-Project Developer & System Designer
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
