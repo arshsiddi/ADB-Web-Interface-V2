@@ -14,6 +14,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ![ADB Working](docs/images/image5.png)
 
 ![ADB Analysis of the battery](docs/images/image6.png)
+
+![Screenshot of the S3 bucket keeping the screeshots of the android device](docs/images/image7.png)
 ## Available Scripts
 
 In the project directory, you can run:
