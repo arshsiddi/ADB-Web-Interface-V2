@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ![Cognito Login Screen](docs/images/image.png)
+
+![Dashboard View](docs/images/Screenshot 2026-01-06 220248.png)
 ## Available Scripts
 
 In the project directory, you can run:
